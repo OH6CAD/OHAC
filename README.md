@@ -1,2 +1,2 @@
-# OHAC
+# OH VarAC
 OH VarAC
